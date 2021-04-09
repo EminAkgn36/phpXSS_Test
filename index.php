@@ -3,7 +3,7 @@
 	<?php include('templates/headers.php'); ?>
 
 	<form action="index.php" method="POST">
-		<h3>Chose your choice:</h3>
+		<h3>Your Select:</h3>
 		<input type="radio" name="choose" value="XSS" > XSS
 		<input type="radio" name="choose" value="Stored XSS" > Stored XSS
 		<br><br>
